@@ -95,7 +95,7 @@ function img() {
 function watchTask(){
 	browsersync.init({
 		proxy: {
-			target: "https://waterloo-innovation-park.ddev.site/"
+			target: "https://craft-cms-starter.ddev.site/"
     	}
 	});
 

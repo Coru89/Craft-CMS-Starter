@@ -6,7 +6,7 @@ fieldLayouts:
         elements:
           -
             elementCondition: null
-            fieldUid: 91458f3d-5347-4b47-a507-b691e9a17943 # Navigation Items
+            fieldUid: 91458f3d-5347-4b47-a507-b691e9a17943
             instructions: null
             label: null
             required: false

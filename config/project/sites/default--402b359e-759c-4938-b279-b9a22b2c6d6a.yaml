@@ -3,7 +3,7 @@ enabled: true
 handle: default
 hasUrls: true
 language: en-US
-name: 'Waterloo Innovation Park'
+name: 'Craft CMS Starter'
 primary: true
-siteGroup: 0b9c054a-9bbd-4547-b554-70bfd7142228 # Waterloo Innovation Park
+siteGroup: 0b9c054a-9bbd-4547-b554-70bfd7142228 # Craft CMS Starter
 sortOrder: 1
