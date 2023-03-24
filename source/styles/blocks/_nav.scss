@@ -386,6 +386,12 @@
     }
   }
 
+  &__logo-mobile {
+    @include media-min(md) {
+      display: none;
+    }
+  }
+
   .social-icons {
     padding: 1rem 0;
 
